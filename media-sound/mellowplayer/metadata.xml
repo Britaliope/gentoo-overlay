@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+
+<longdescription>
+MellowPlayer is a free, open source and cross-platform desktop application that
+runs web-based music streaming services in its own window and provides integration
+with your desktop (hotkeys, multimedia keys, system tray, notifications and more).
+
+MellowPlayer is a Qt based alternative to NuvolaPlayer initially crafted for KaOS.
+MellowPlayer is written in C++ and QML.
+</longdescription>
+<upstream>
+	<remote-id type="gitlab">ColinDuquesnoy/MellowPlayer</remote-id>
+	<doc>https://mellowplayer.readthedocs.io/en/latest/</doc>
+</upstream>
+<maintainer type="person">
+	<email>mateubruno@gmail.com</email>
+	<name>Bruno MATEU</name>
+</maintainer>
+<maintainer type="project">
+	<email>proxy-maint@gentoo.org</email>
+	<name>Proxy Maintainers</name>
+</maintainer>
+
+</pkgmetadata>
